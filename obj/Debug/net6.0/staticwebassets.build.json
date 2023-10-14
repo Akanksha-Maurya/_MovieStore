@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "2JqKFe3M07AserHNyd2fD8uUqaeKiCGVUoEnuNClAwk=",
+  "Source": "MovieStoreMvc",
+  "BasePath": "_content/MovieStoreMvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieStoreMvc\\wwwroot",
+      "Source": "MovieStoreMvc",
+      "ContentRoot": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\",
+      "BasePath": "_content/MovieStoreMvc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\css\\forms.css",
+      "SourceId": "MovieStoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\",
+      "BasePath": "_content/MovieStoreMvc",
+      "RelativePath": "css/forms.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\forms.css"
+    },
+    {
+      "Identity": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\css\\style.css",
+      "SourceId": "MovieStoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\",
+      "BasePath": "_content/MovieStoreMvc",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\71192adc-81ba-4613-bab5-a4233b0466e2.png",
+      "SourceId": "MovieStoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\",
+      "BasePath": "_content/MovieStoreMvc",
+      "RelativePath": "Uploads/71192adc-81ba-4613-bab5-a4233b0466e2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\71192adc-81ba-4613-bab5-a4233b0466e2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\c5b6efa4-8597-4318-9f3e-f4e8336bf5d4.png",
+      "SourceId": "MovieStoreMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\",
+      "BasePath": "_content/MovieStoreMvc",
+      "RelativePath": "Uploads/c5b6efa4-8597-4318-9f3e-f4e8336bf5d4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\c5b6efa4-8597-4318-9f3e-f4e8336bf5d4.png"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\71192adc-81ba-4613-bab5-a4233b0466e2.png",
+      "PackagePath": "staticwebassets\\Uploads\\71192adc-81ba-4613-bab5-a4233b0466e2.png"
+    },
+    {
+      "Id": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\Uploads\\c5b6efa4-8597-4318-9f3e-f4e8336bf5d4.png",
+      "PackagePath": "staticwebassets\\Uploads\\c5b6efa4-8597-4318-9f3e-f4e8336bf5d4.png"
+    },
+    {
+      "Id": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Akanksha Maurya\\source\\repos\\MovieStoreMvc\\MovieStoreMvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieStoreMvc.props",
+      "PackagePath": "build\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieStoreMvc.props",
+      "PackagePath": "buildTransitive\\MovieStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
